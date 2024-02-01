@@ -3,3 +3,4 @@ test_cov
 .DS_Store
 instance
 .coverage
+__pycache__
