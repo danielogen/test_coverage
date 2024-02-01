@@ -1,0 +1,5 @@
+test_cov
+.idea
+.DS_Store
+instance
+.coverage
